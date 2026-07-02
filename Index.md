@@ -12,7 +12,7 @@ Backend Engineer | Data Infrastructure | AI Systems | Product Management
 
 - **Email**: aybarineecampbellmendez@gmail.com
 - **Phone**: (876) 476-2302
-- **LinkedIn**: [linkedin.com/in/aybarinee-campbell-mendez](https://www.linkedin.com/in/aybarinee-campbell-mendez)
+- **LinkedIn**: [linkedin.com/in/aybarinee](https://www.linkedin.com/in/aybarinee)
 - **GitHub**: [github.com/aybarineecm](https://github.com/aybarineecm)
 - **Location**: Kingston, Jamaica | Remote-ready, Visa sponsorship available
 
