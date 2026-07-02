@@ -1,12 +1,12 @@
----
+
 layout: default
 title: Home
----
+
 
 # Aybarinee Campbell Mendez
 ## Backend Engineer | Data Infrastructure | AI Systems | Transitioning to Product Management
 
----
+
 
 ## Contact
 - **Email**: aybarineecampbellmendez@gmail.com
@@ -15,7 +15,7 @@ title: Home
 - **GitHub**: [github.com/aybarineecm](https://github.com/aybarineecm)
 - **Location**: Kingston, Jamaica | Remote-ready, Visa sponsorship available
 
----
+
 
 ## Professional Summary
 
@@ -23,7 +23,7 @@ Software Engineer with 3+ years of experience designing and shipping production 
 
 **Why the transition?** I've realized my impact multiplies when I'm thinking about what to build (strategy) alongside how to build it (execution). Seeking to formalize PM expertise in roles focused on human data platforms, research infrastructure, or AI safety.
 
----
+
 
 ## Work Experience
 
@@ -39,7 +39,7 @@ Software Engineer with 3+ years of experience designing and shipping production 
 
 **Tech Stack**: Python (Flask, FastAPI), SQL (MS SQL Server, PostgreSQL), Azure DevOps, CI/CD (Jenkins), Data modeling, ETL pipeline design, monitoring/alerting
 
----
+
 
 **Junior Software Engineer — Backend & Data** *(Jun 2023 – Feb 2024)*
 - Built and maintained backend APIs and system integrations in Python and SQL supporting high-volume data ingestion across procurement, operations, and third-party systems
@@ -50,7 +50,6 @@ Software Engineer with 3+ years of experience designing and shipping production 
 
 **Tech Stack**: Python, SQL, system integration, data quality frameworks
 
----
 
 ## Featured Projects
 
@@ -77,7 +76,6 @@ Full-stack enterprise platform consolidating 400K+ legacy contracts into structu
 
 **[View on GitHub](https://github.com/aybarinee/contract-management-platform)**
 
----
 
 ### [ML Inference Pipeline — Sign Language Recognition](https://github.com/aybarinee/sign-language-recognition)
 **Feb 2022 – Aug 2022 | Lead ML Engineer**
@@ -101,7 +99,7 @@ End-to-end real-time inference pipeline for sign language recognition across 180
 
 **[View on GitHub](https://github.com/aybarinee/sign-language-recognition)**
 
----
+
 
 ### [Procurement Digitization Platform — Data Infrastructure](https://github.com/aybarinee/procurement-platform)
 **Feb 2024 – Jul 2024 | Data & Platform Lead**
@@ -126,7 +124,6 @@ End-to-end data collection and processing infrastructure replacing fully manual 
 
 **[View on GitHub](https://github.com/aybarinee/procurement-digitization)**
 
----
 
 ## Currently Building
 
@@ -148,7 +145,7 @@ Active projects expanding distributed systems and ML engineering depth:
   - *Stack*: GCP, Delta Lake, Apache Spark, DuckDB
   - *Purpose*: Cost-effective analytics foundation
 
----
+
 
 ## Technical Skills
 
@@ -166,7 +163,7 @@ Active projects expanding distributed systems and ML engineering depth:
 
 **Practices**: Agile / Scrum · Code Review · Technical Documentation · System Design · SDLC
 
----
+
 
 ## Education
 
@@ -175,7 +172,7 @@ Active projects expanding distributed systems and ML engineering depth:
 - **GPA**: 3.2 / 4.0
 - **Recognition**: Top-20 Finalist, National AI Hackathon (2024); awarded full scholarship to Intellibus AI Academy for applied ML performance
 
----
+
 
 ## Why I'm Transitioning to Product Management
 
@@ -191,7 +188,7 @@ I'm particularly interested in:
 - **Research-enabling infrastructure** (tools that make researchers more productive)
 - **AI safety and interpretability** (understanding and steering AI systems)
 
----
+
 
 ## Contact
 
@@ -199,7 +196,7 @@ I'm particularly interested in:
 - **GitHub**: [github.com/aybarinee](https://github.com/aybarineecm)
 - **LinkedIn**: [linkedin.com/in/aybarinee-campbell-mendez](www.linkedin.com/in/aybarinee)
 
----
+
 
 *Last updated: July 2026*
 
