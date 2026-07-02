@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-
+---
 
 # Aybarinee Campbell Mendez
 ## Backend Engineer | Data Infrastructure | AI Systems | Transitioning to Product Management
