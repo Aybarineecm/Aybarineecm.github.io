@@ -4,18 +4,20 @@ title: Home
 ---
 
 # Aybarinee Campbell Mendez
-## Backend Engineer | Data Infrastructure | AI Systems | Transitioning to Product Management
 
+Backend Engineer | Data Infrastructure | AI Systems | Product Management
 
+---
 
 ## Contact
+
 - **Email**: aybarineecampbellmendez@gmail.com
 - **Phone**: (876) 476-2302
-- **LinkedIn**: [linkedin.com/in/aybarinee](www.linkedin.com/in/aybarinee)
+- **LinkedIn**: [linkedin.com/in/aybarinee-campbell-mendez](https://www.linkedin.com/in/aybarinee-campbell-mendez)
 - **GitHub**: [github.com/aybarineecm](https://github.com/aybarineecm)
 - **Location**: Kingston, Jamaica | Remote-ready, Visa sponsorship available
 
-
+---
 
 ## Professional Summary
 
@@ -23,12 +25,14 @@ Software Engineer with 3+ years of experience designing and shipping production 
 
 **Why the transition?** I've realized my impact multiplies when I'm thinking about what to build (strategy) alongside how to build it (execution). Seeking to formalize PM expertise in roles focused on human data platforms, research infrastructure, or AI safety.
 
-
+---
 
 ## Work Experience
 
 ### Port Authority of Jamaica — Kingston, Jamaica
+
 **Lead Software Engineer — Backend, Platform & Data** *(Feb 2024 – Present)*
+
 - Architected and shipped end-to-end enterprise platforms for IT Asset Management and Contract Management, serving 50+ daily users across 15+ departments
 - Led design and implementation of company-wide AI and automation initiative—owned product direction, conducted stakeholder interviews, defined success metrics
 - Designed production ETL pipelines and relational data models for high-volume transaction processing (1000s monthly); drove 45% improvement in data accuracy through automated validation
@@ -39,9 +43,10 @@ Software Engineer with 3+ years of experience designing and shipping production 
 
 **Tech Stack**: Python (Flask, FastAPI), SQL (MS SQL Server, PostgreSQL), Azure DevOps, CI/CD (Jenkins), Data modeling, ETL pipeline design, monitoring/alerting
 
-
+---
 
 **Junior Software Engineer — Backend & Data** *(Jun 2023 – Feb 2024)*
+
 - Built and maintained backend APIs and system integrations in Python and SQL supporting high-volume data ingestion across procurement, operations, and third-party systems
 - Designed and optimized MS SQL Server databases (schemas, indexes, ETL jobs) to support reliable, fast transaction processing
 - Implemented logging, monitoring, and observability for backend services, enabling rapid incident diagnosis
@@ -50,10 +55,12 @@ Software Engineer with 3+ years of experience designing and shipping production 
 
 **Tech Stack**: Python, SQL, system integration, data quality frameworks
 
+---
 
 ## Featured Projects
 
 ### [Contract Management Portal — Full-Stack Platform](https://github.com/aybarinee/contract-management-platform)
+
 **May 2023 – Sep 2023 | Lead Engineer**
 
 Full-stack enterprise platform consolidating 400K+ legacy contracts into structured, searchable system with automated workflows and compliance reporting.
@@ -76,8 +83,10 @@ Full-stack enterprise platform consolidating 400K+ legacy contracts into structu
 
 **[View on GitHub](https://github.com/aybarinee/contract-management-platform)**
 
+---
 
 ### [ML Inference Pipeline — Sign Language Recognition](https://github.com/aybarinee/sign-language-recognition)
+
 **Feb 2022 – Aug 2022 | Lead ML Engineer**
 
 End-to-end real-time inference pipeline for sign language recognition across 180K+ annotated images, optimized for on-device deployment and low-latency performance.
@@ -99,9 +108,10 @@ End-to-end real-time inference pipeline for sign language recognition across 180
 
 **[View on GitHub](https://github.com/aybarinee/sign-language-recognition)**
 
-
+---
 
 ### [Procurement Digitization Platform — Data Infrastructure](https://github.com/aybarinee/procurement-platform)
+
 **Feb 2024 – Jul 2024 | Data & Platform Lead**
 
 End-to-end data collection and processing infrastructure replacing fully manual procurement workflows across Finance, Procurement, and Legal.
@@ -124,6 +134,7 @@ End-to-end data collection and processing infrastructure replacing fully manual 
 
 **[View on GitHub](https://github.com/aybarinee/procurement-digitization)**
 
+---
 
 ## Currently Building
 
@@ -145,7 +156,7 @@ Active projects expanding distributed systems and ML engineering depth:
   - *Stack*: GCP, Delta Lake, Apache Spark, DuckDB
   - *Purpose*: Cost-effective analytics foundation
 
-
+---
 
 ## Technical Skills
 
@@ -163,16 +174,17 @@ Active projects expanding distributed systems and ML engineering depth:
 
 **Practices**: Agile / Scrum · Code Review · Technical Documentation · System Design · SDLC
 
-
+---
 
 ## Education
 
 **University of the West Indies, Mona — Kingston, Jamaica**
+
 - **B.Sc. Computer Science** — Upper Second-Class Honours (Magna Cum Laude)
 - **GPA**: 3.2 / 4.0
 - **Recognition**: Top-20 Finalist, National AI Hackathon (2024); awarded full scholarship to Intellibus AI Academy for applied ML performance
 
-
+---
 
 ## Why I'm Transitioning to Product Management
 
@@ -188,15 +200,6 @@ I'm particularly interested in:
 - **Research-enabling infrastructure** (tools that make researchers more productive)
 - **AI safety and interpretability** (understanding and steering AI systems)
 
+---
 
-
-## Contact
-
-- **Email**: aybarineecampbellmendez@gmail.com
-- **GitHub**: [github.com/aybarinee](https://github.com/aybarineecm)
-- **LinkedIn**: [linkedin.com/in/aybarinee-campbell-mendez](www.linkedin.com/in/aybarinee)
-
-
-
-*Last updated: July 2026*
-
+*Last updated: July 2024*
