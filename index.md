@@ -8,12 +8,12 @@ Data & AI Engineer | Backend Systems | ML Pipelines | Product Management
 ## Contact
 - **Email**: aybarineecampbellmendez@gmail.com
 - **Phone**: (876) 476-2302
-- **LinkedIn**: [linkedin.com/in/aybarinee](https://www.linkedin.com/in/aybarinee)
-- **GitHub**: [github.com/aybarineecm](https://github.com/aybarineecm)
+- **LinkedIn**: (https://www.linkedin.com/in/aybarinee)
+- **GitHub**: (https://github.com/aybarineecm)
 - **Location**: Kingston, Jamaica | Remote-ready, Visa sponsorship available
 
 ## Professional Summary
-Data & AI Engineer with 3+ years of experience designing and shipping production ETL pipelines, ML inference systems, intelligent automation platforms, and enterprise data infrastructure. Proven track record of measurable impact: cut a 5-day procurement cycle to 8 hours, saved millions of USD in operational costs, migrated 400,000+ records from legacy Excel systems into structured data platforms, and built ML pipelines processing 180,000+ annotated images for real-time inference. Currently leading a company-wide AI & automation initiative across 15 departments at the Port Authority of Jamaica, and founder of TechTalkSayba — a Jamaican tech education brand making AI accessible to communities who need it most.
+Data & AI Engineer with 3+ years of experience designing and shipping production ETL pipelines, ML inference systems, intelligent automation platforms, and enterprise data infrastructure. Proven track record of measurable impact: cut a 5-day procurement cycle to 8 hours, saved $500K+ in operational costs, migrated 400,000+ records from legacy Excel systems into structured data platforms, and built ML pipelines processing 180,000+ annotated images for real-time inference. Currently leading a company-wide AI & automation initiative across 15 departments at the Port Authority of Jamaica, and founder of TechTalkSayba — a Jamaican tech education brand making AI accessible to communities who need it most.
 
 Transitioning toward Product Management with a focus on data platforms, research infrastructure, and AI systems — bringing engineering depth and a track record of cross-functional delivery to questions of strategy and direction.
 
@@ -208,6 +208,7 @@ After building data infrastructure and leading cross-functional AI initiatives, 
 4. **Build things people trust** — Focus on reliability, data quality, and systems that hold up under pressure
 
 I'm particularly interested in:
-- **Human data platforms** (collection, validation, quality at scale)
-- **Research-enabling infrastructure** (tools that make researchers and analysts more productive)
-- **AI automation and process intelligence** (taking the work I've been doing at PAJ and doing it at scale)
+- **Human data platforms**
+- **Research-enabling infrastructure**
+- **AI automation and process intelligence**
+- **Data Engineer**
